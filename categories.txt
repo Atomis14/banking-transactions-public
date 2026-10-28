@@ -1,0 +1,29 @@
+Groceries
+Restaurants & Cafés
+Transport
+Fuel & Charging
+Shopping
+Housing & Rent
+Utilities
+Telecommunications
+Insurance
+Healthcare & Pharmacy
+Personal Care
+Entertainment & Leisure
+Travel & Accommodation
+Sports & Fitness
+Subscriptions & Software
+Education
+Household & Furniture
+Gifts & Donations
+Taxes & Government
+Banking Fees
+Interest Income
+Salary & Employment Income
+Other Income
+Transfers Between Own Accounts
+Transfers to Other People
+Investments & Securities
+Savings & Pension
+Cash & ATM Withrdrawls
+Uncategorized
